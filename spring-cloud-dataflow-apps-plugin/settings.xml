@@ -1,0 +1,34 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+		  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+	<servers>
+		<server>
+			<id>nexus</id>
+			<username>__NEXUS_USERNAME__</username>
+			<password>__NEXUS_PASSWORD__</password>
+		</server>
+	</servers>
+
+	<profiles>
+		<profile>
+			<id>NexusProfile</id>
+			<repositories>
+				<repository>
+					<id>dpl-all</id>
+					<name>dpl-all</name>
+					<url>https://tools.standardbank.co.za/nexus/repository/mrs-dpl-all/</url>
+				</repository>
+			</repositories>
+			<pluginRepositories>
+				<pluginRepository>
+					<id>mrs-all</id>
+					<name>mrs-all</name>
+					<url>https://tools.standardbank.co.za/nexus/repository/mrs-maven-all/</url>
+				</pluginRepository>
+			</pluginRepositories>
+		</profile>
+	</profiles>
+	<activeProfiles>
+		<activeProfile>NexusProfile</activeProfile>
+	</activeProfiles>
+</settings>

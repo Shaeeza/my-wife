@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>script-processor</artifactId>
+    <name>script-processor</name>
+    <description>script processor apps</description>
+
+    <parent>
+        <groupId>org.springframework.cloud.stream.app</groupId>
+        <artifactId>stream-applications-core</artifactId>
+        <version>5.0.0-SNAPSHOT</version>
+        <relativePath>../../stream-applications-core/pom.xml</relativePath>
+    </parent>
+
+    <properties>
+        <jruby-complete.version>9.3.9.0</jruby-complete.version>
+        <jython-standalone.version>2.7.3</jython-standalone.version>
+        <apache-ivy.version>2.5.2</apache-ivy.version>
+        <graalvm.version>22.3.0</graalvm.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.integration</groupId>
+            <artifactId>spring-integration-groovy</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.graalvm.sdk</groupId>
+            <artifactId>graal-sdk</artifactId>
+            <version>${graalvm.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.graalvm.js</groupId>
+            <artifactId>js</artifactId>
+            <version>${graalvm.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.groovy</groupId>
+            <artifactId>groovy-json</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.groovy</groupId>
+            <artifactId>groovy-nio</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.groovy</groupId>
+            <artifactId>groovy-templates</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.groovy</groupId>
+            <artifactId>groovy-xml</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.groovy</groupId>
+            <artifactId>groovy-dateutil</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.groovy</groupId>
+            <artifactId>groovy-datetime</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.jruby</groupId>
+            <artifactId>jruby-complete</artifactId>
+            <version>${jruby-complete.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.python</groupId>
+            <artifactId>jython-standalone</artifactId>
+            <version>${jython-standalone.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.ivy</groupId>
+            <artifactId>ivy</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud.fn</groupId>
+            <artifactId>payload-converter-function</artifactId>
+            <version>${java-functions.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.0.0</version>
+                <configuration>
+                    <threadCount>1</threadCount>
+                    <forkCount>1</forkCount>
+                    <argLine>
+                        --add-opens java.base/sun.nio.ch=ALL-UNNAMED
+                        --add-opens java.base/java.io=ALL-UNNAMED
+                    </argLine>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>3.0.0</version>
+                <configuration>
+                    <skip>false</skip>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dataflow-apps-docs-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dataflow-apps-generator-plugin</artifactId>
+                <configuration>
+                    <application>
+                        <name>script</name>
+                        <type>processor</type>
+                        <version>${project.version}</version>
+                        <configClass>
+                            org.springframework.cloud.stream.app.processor.script.ScriptProcessorConfiguration.class
+                        </configClass>
+                        <functionDefinition>byteArrayTextToString|scriptProcessorFunction</functionDefinition>
+
+                        <maven>
+                            <dependencies>
+                                <dependency>
+                                    <groupId>org.springframework.cloud.stream.app</groupId>
+                                    <artifactId>script-processor</artifactId>
+                                    <version>${project.version}</version>
+                                </dependency>
+                            </dependencies>
+                        </maven>
+
+                        <bootPluginConfiguration>
+                            <![CDATA[
+                                        <requiresUnpack>
+                                            <dependency>
+                                                <groupId>org.python</groupId>
+                                                <artifactId>jython-standalone</artifactId>
+                                            </dependency>
+                                        </requiresUnpack>
+                                        ]]>
+                        </bootPluginConfiguration>
+
+                    </application>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

@@ -1,0 +1,46 @@
+apiVersion: actions.summerwind.dev/v1alpha1
+kind: RunnerDeployment
+metadata:
+  name: runners-stream-ci
+spec:
+  template:
+    spec:
+      repository: spring-cloud/stream-applications
+#      image: 'summerwind/actions-runner-dind:tag-placeholder'
+      priorityClassName: high-priority
+      dockerdWithinRunnerContainer: true
+      imagePullPolicy: IfNotPresent
+      imagePullSecrets:
+        - name: stream-metadata-default
+      githubAPICredentialsFrom:
+        secretRef:
+          name: controller-manager
+      resources:
+        requests:
+          cpu: "1500m"
+          memory: "1536Mi"
+      env:
+        - name: STARTUP_DELAY_IN_SECONDS
+          value: "10"
+        - name: DISABLE_WAIT_FOR_DOCKER
+          value: "true"
+      labels:
+        - stream-ci
+---
+apiVersion: actions.summerwind.dev/v1alpha1
+kind: HorizontalRunnerAutoscaler
+metadata:
+  name: runners-stream-ci-scaling
+spec:
+  githubAPICredentialsFrom:
+    secretRef:
+      name: controller-manager
+  minReplicas: min-replicas-placeholder
+  maxReplicas: max-replicas-placeholder
+  scaleTargetRef:
+    kind: RunnerDeployment
+    name: runners-stream-ci
+  scaleUpTriggers:
+    - githubEvent:
+        workflowJob: {}
+      duration: "30m"

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.springframework.cloud.stream.app</groupId>
+    <artifactId>processor</artifactId>
+    <version>5.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>aggregator-processor</module>
+        <module>bridge-processor</module>
+        <module>filter-processor</module>
+        <module>groovy-processor</module>
+        <module>header-enricher-processor</module>
+        <module>header-filter-processor</module>
+        <module>http-request-processor</module>
+        <module>splitter-processor</module>
+        <module>transform-processor</module>
+        <module>script-processor</module>
+        <module>twitter-trend-processor</module>
+        <module>image-recognition-processor</module>
+        <module>object-detection-processor</module>
+        <module>semantic-segmentation-processor</module>
+    </modules>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>3.0.0</version>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

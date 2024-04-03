@@ -1,0 +1,4 @@
+# Core components used in generated applications
+
+Various modules of core dependencies and other common artifacts.
+

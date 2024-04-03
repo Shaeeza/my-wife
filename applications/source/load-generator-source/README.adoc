@@ -1,0 +1,17 @@
+//tag::ref-doc[]
+= Load Generator Source
+
+A source that sends generated data and dispatches it to the stream.
+
+== Options
+
+The **$$load-generator$$** $$source$$ has the following options:
+
+//tag::configuration-properties[]
+$$load-generator.generate-timestamp$$:: $$Whether timestamp generated.$$ *($$Boolean$$, default: `$$<none>$$`)*
+$$load-generator.message-count$$:: $$Message count.$$ *($$Integer$$, default: `$$<none>$$`)*
+$$load-generator.message-size$$:: $$Message size.$$ *($$Integer$$, default: `$$<none>$$`)*
+$$load-generator.producers$$:: $$Number of producers.$$ *($$Integer$$, default: `$$<none>$$`)*
+//end::configuration-properties[]
+
+//end::ref-doc[]

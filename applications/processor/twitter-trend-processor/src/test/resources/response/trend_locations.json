@@ -1,0 +1,2246 @@
+[
+  {
+    "name": "Worldwide",
+    "placeType": {
+      "code": 19,
+      "name": "Supername"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1",
+    "parentid": 0,
+    "country": "",
+    "woeid": 1,
+    "countryCode": null
+  },
+  {
+    "name": "Winnipeg",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2972",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 2972,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Ottawa",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/3369",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 3369,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Quebec",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/3444",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 3444,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Montreal",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/3534",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 3534,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Toronto",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/4118",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 4118,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Edmonton",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/8676",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 8676,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Calgary",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/8775",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 8775,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Vancouver",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/9807",
+    "parentid": 23424775,
+    "country": "Canada",
+    "woeid": 9807,
+    "countryCode": "CA"
+  },
+  {
+    "name": "Birmingham",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/12723",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 12723,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Blackpool",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/12903",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 12903,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Bournemouth",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/13383",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 13383,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Brighton",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/13911",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 13911,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Bristol",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/13963",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 13963,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Cardiff",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/15127",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 15127,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Coventry",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/17044",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 17044,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Derby",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/18114",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 18114,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Edinburgh",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/19344",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 19344,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Glasgow",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/21125",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 21125,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Hull",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/25211",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 25211,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Leeds",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/26042",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 26042,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Leicester",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/26062",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 26062,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Liverpool",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/26734",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 26734,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Manchester",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/28218",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 28218,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Middlesbrough",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/28869",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 28869,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Newcastle",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/30079",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 30079,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Nottingham",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/30720",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 30720,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Plymouth",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/32185",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 32185,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Portsmouth",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/32452",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 32452,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Preston",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/32566",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 32566,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Sheffield",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/34503",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 34503,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Stoke-on-Trent",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/36240",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 36240,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Swansea",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/36758",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 36758,
+    "countryCode": "GB"
+  },
+  {
+    "name": "London",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/44418",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 44418,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Belfast",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/44544",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "woeid": 44544,
+    "countryCode": "GB"
+  },
+  {
+    "name": "Santo Domingo",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/76456",
+    "parentid": 23424800,
+    "country": "Dominican Republic",
+    "woeid": 76456,
+    "countryCode": "DO"
+  },
+  {
+    "name": "Guatemala City",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/83123",
+    "parentid": 23424834,
+    "country": "Guatemala",
+    "woeid": 83123,
+    "countryCode": "GT"
+  },
+  {
+    "name": "Acapulco",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/110978",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 110978,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Aguascalientes",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/111579",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 111579,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Chihuahua",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/115958",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 115958,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Mexico City",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/116545",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 116545,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Ciudad Juarez",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/116556",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 116556,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Nezahualc\u00F3yotl",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/116564",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 116564,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Culiac\u00E1n",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/117994",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 117994,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Ecatepec de Morelos",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/118466",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 118466,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Guadalajara",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/124162",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 124162,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Hermosillo",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/124785",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 124785,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Le\u00F3n",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/131068",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 131068,
+    "countryCode": "MX"
+  },
+  {
+    "name": "M\u00E9rida",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/133327",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 133327,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Mexicali",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/133475",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 133475,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Monterrey",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/134047",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 134047,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Morelia",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/134091",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 134091,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Naucalpan de Ju\u00E1rez",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/134395",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 134395,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Puebla",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/137612",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 137612,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Quer\u00E9taro",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/138045",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 138045,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Saltillo",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/141272",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 141272,
+    "countryCode": "MX"
+  },
+  {
+    "name": "San Luis Potos\u00ED",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/144265",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 144265,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Tijuana",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/149361",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 149361,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Toluca",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/149769",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 149769,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Zapopan",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/151582",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "woeid": 151582,
+    "countryCode": "MX"
+  },
+  {
+    "name": "Mendoza",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/332471",
+    "parentid": 23424747,
+    "country": "Argentina",
+    "woeid": 332471,
+    "countryCode": "AR"
+  },
+  {
+    "name": "Santiago",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/349859",
+    "parentid": 23424782,
+    "country": "Chile",
+    "woeid": 349859,
+    "countryCode": "CL"
+  },
+  {
+    "name": "Concepcion",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/349860",
+    "parentid": 23424782,
+    "country": "Chile",
+    "woeid": 349860,
+    "countryCode": "CL"
+  },
+  {
+    "name": "Valparaiso",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/349861",
+    "parentid": 23424782,
+    "country": "Chile",
+    "woeid": 349861,
+    "countryCode": "CL"
+  },
+  {
+    "name": "Bogot\u00E1",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/368148",
+    "parentid": 23424787,
+    "country": "Colombia",
+    "woeid": 368148,
+    "countryCode": "CO"
+  },
+  {
+    "name": "Cali",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/368149",
+    "parentid": 23424787,
+    "country": "Colombia",
+    "woeid": 368149,
+    "countryCode": "CO"
+  },
+  {
+    "name": "Medell\u00EDn",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/368150",
+    "parentid": 23424787,
+    "country": "Colombia",
+    "woeid": 368150,
+    "countryCode": "CO"
+  },
+  {
+    "name": "Barranquilla",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/368151",
+    "parentid": 23424787,
+    "country": "Colombia",
+    "woeid": 368151,
+    "countryCode": "CO"
+  },
+  {
+    "name": "Quito",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/375732",
+    "parentid": 23424801,
+    "country": "Ecuador",
+    "woeid": 375732,
+    "countryCode": "EC"
+  },
+  {
+    "name": "Guayaquil",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/375733",
+    "parentid": 23424801,
+    "country": "Ecuador",
+    "woeid": 375733,
+    "countryCode": "EC"
+  },
+  {
+    "name": "Caracas",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395269",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 395269,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Maracaibo",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395270",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 395270,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Maracay",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395271",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 395271,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Valencia",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395272",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 395272,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Barcelona",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395273",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 395273,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Ciudad Guayana",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395275",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 395275,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Turmero",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395277",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 395277,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Lima",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/418440",
+    "parentid": 23424919,
+    "country": "Peru",
+    "woeid": 418440,
+    "countryCode": "PE"
+  },
+  {
+    "name": "Bras\u00EDlia",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455819",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455819,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Bel\u00E9m",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455820",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455820,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Belo Horizonte",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455821",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455821,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Curitiba",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455822",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455822,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Porto Alegre",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455823",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455823,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Recife",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455824",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455824,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455825",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455825,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Salvador",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455826",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455826,
+    "countryCode": "BR"
+  },
+  {
+    "name": "S\u00E3o Paulo",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455827",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455827,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Campinas",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455828",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455828,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Fortaleza",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455830",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455830,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Goi\u00E2nia",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455831",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455831,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Manaus",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455833",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455833,
+    "countryCode": "BR"
+  },
+  {
+    "name": "S\u00E3o Lu\u00EDs",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455834",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455834,
+    "countryCode": "BR"
+  },
+  {
+    "name": "Guarulhos",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455867",
+    "parentid": 23424768,
+    "country": "Brazil",
+    "woeid": 455867,
+    "countryCode": "BR"
+  },
+  {
+    "name": "C\u00F3rdoba",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/466861",
+    "parentid": 23424747,
+    "country": "Argentina",
+    "woeid": 466861,
+    "countryCode": "AR"
+  },
+  {
+    "name": "Rosario",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/466862",
+    "parentid": 23424747,
+    "country": "Argentina",
+    "woeid": 466862,
+    "countryCode": "AR"
+  },
+  {
+    "name": "Barquisimeto",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/468382",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 468382,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Matur\u00EDn",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/468384",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "woeid": 468384,
+    "countryCode": "VE"
+  },
+  {
+    "name": "Buenos Aires",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/468739",
+    "parentid": 23424747,
+    "country": "Argentina",
+    "woeid": 468739,
+    "countryCode": "AR"
+  },
+  {
+    "name": "Gda\u0144sk",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/493417",
+    "parentid": 23424923,
+    "country": "Poland",
+    "woeid": 493417,
+    "countryCode": "PL"
+  },
+  {
+    "name": "Krak\u00F3w",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/502075",
+    "parentid": 23424923,
+    "country": "Poland",
+    "woeid": 502075,
+    "countryCode": "PL"
+  },
+  {
+    "name": "Lodz",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/505120",
+    "parentid": 23424923,
+    "country": "Poland",
+    "woeid": 505120,
+    "countryCode": "PL"
+  },
+  {
+    "name": "Pozna\u0144",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/514048",
+    "parentid": 23424923,
+    "country": "Poland",
+    "woeid": 514048,
+    "countryCode": "PL"
+  },
+  {
+    "name": "Warsaw",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/523920",
+    "parentid": 23424923,
+    "country": "Poland",
+    "woeid": 523920,
+    "countryCode": "PL"
+  },
+  {
+    "name": "Wroclaw",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/526363",
+    "parentid": 23424923,
+    "country": "Poland",
+    "woeid": 526363,
+    "countryCode": "PL"
+  },
+  {
+    "name": "Vienna",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/551801",
+    "parentid": 23424750,
+    "country": "Austria",
+    "woeid": 551801,
+    "countryCode": "AT"
+  },
+  {
+    "name": "Cork",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/560472",
+    "parentid": 23424803,
+    "country": "Ireland",
+    "woeid": 560472,
+    "countryCode": "IE"
+  },
+  {
+    "name": "Dublin",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/560743",
+    "parentid": 23424803,
+    "country": "Ireland",
+    "woeid": 560743,
+    "countryCode": "IE"
+  },
+  {
+    "name": "Galway",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/560912",
+    "parentid": 23424803,
+    "country": "Ireland",
+    "woeid": 560912,
+    "countryCode": "IE"
+  },
+  {
+    "name": "Bordeaux",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/580778",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 580778,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Lille",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/608105",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 608105,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Lyon",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/609125",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 609125,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Marseille",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/610264",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 610264,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Montpellier",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/612977",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 612977,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Nantes",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/613858",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 613858,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Paris",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/615702",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 615702,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Rennes",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/619163",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 619163,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Strasbourg",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/627791",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 627791,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Toulouse",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/628886",
+    "parentid": 23424819,
+    "country": "France",
+    "woeid": 628886,
+    "countryCode": "FR"
+  },
+  {
+    "name": "Berlin",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/638242",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 638242,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Bremen",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/641142",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 641142,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Dortmund",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/645458",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 645458,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Dresden",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/645686",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 645686,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Dusseldorf",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/646099",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 646099,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Essen",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/648820",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 648820,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Frankfurt",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/650272",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 650272,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Hamburg",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/656958",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 656958,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Cologne",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/667931",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 667931,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Leipzig",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/671072",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 671072,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Munich",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/676757",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 676757,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Stuttgart",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/698064",
+    "parentid": 23424829,
+    "country": "Germany",
+    "woeid": 698064,
+    "countryCode": "DE"
+  },
+  {
+    "name": "Bologna",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/711080",
+    "parentid": 23424853,
+    "country": "Italy",
+    "woeid": 711080,
+    "countryCode": "IT"
+  },
+  {
+    "name": "Genoa",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/716085",
+    "parentid": 23424853,
+    "country": "Italy",
+    "woeid": 716085,
+    "countryCode": "IT"
+  },
+  {
+    "name": "Milan",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/718345",
+    "parentid": 23424853,
+    "country": "Italy",
+    "woeid": 718345,
+    "countryCode": "IT"
+  },
+  {
+    "name": "Naples",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/719258",
+    "parentid": 23424853,
+    "country": "Italy",
+    "woeid": 719258,
+    "countryCode": "IT"
+  },
+  {
+    "name": "Palermo",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/719846",
+    "parentid": 23424853,
+    "country": "Italy",
+    "woeid": 719846,
+    "countryCode": "IT"
+  },
+  {
+    "name": "Rome",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/721943",
+    "parentid": 23424853,
+    "country": "Italy",
+    "woeid": 721943,
+    "countryCode": "IT"
+  },
+  {
+    "name": "Turin",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/725003",
+    "parentid": 23424853,
+    "country": "Italy",
+    "woeid": 725003,
+    "countryCode": "IT"
+  },
+  {
+    "name": "Den Haag",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/726874",
+    "parentid": 23424909,
+    "country": "Netherlands",
+    "woeid": 726874,
+    "countryCode": "NL"
+  },
+  {
+    "name": "Amsterdam",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/727232",
+    "parentid": 23424909,
+    "country": "Netherlands",
+    "woeid": 727232,
+    "countryCode": "NL"
+  },
+  {
+    "name": "Rotterdam",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/733075",
+    "parentid": 23424909,
+    "country": "Netherlands",
+    "woeid": 733075,
+    "countryCode": "NL"
+  },
+  {
+    "name": "Utrecht",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/734047",
+    "parentid": 23424909,
+    "country": "Netherlands",
+    "woeid": 734047,
+    "countryCode": "NL"
+  },
+  {
+    "name": "Barcelona",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/753692",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 753692,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Bilbao",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/754542",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 754542,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Las Palmas",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/764814",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 764814,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Madrid",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/766273",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 766273,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Malaga",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/766356",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 766356,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Murcia",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/768026",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 768026,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Palma",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/769293",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 769293,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Seville",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/774508",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 774508,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Valencia",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/776688",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 776688,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Zaragoza",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/779063",
+    "parentid": 23424950,
+    "country": "Spain",
+    "woeid": 779063,
+    "countryCode": "ES"
+  },
+  {
+    "name": "Geneva",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/782538",
+    "parentid": 23424957,
+    "country": "Switzerland",
+    "woeid": 782538,
+    "countryCode": "CH"
+  },
+  {
+    "name": "Lausanne",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/783058",
+    "parentid": 23424957,
+    "country": "Switzerland",
+    "woeid": 783058,
+    "countryCode": "CH"
+  },
+  {
+    "name": "Zurich",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/784794",
+    "parentid": 23424957,
+    "country": "Switzerland",
+    "woeid": 784794,
+    "countryCode": "CH"
+  },
+  {
+    "name": "Brest",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/824382",
+    "parentid": 23424765,
+    "country": "Belarus",
+    "woeid": 824382,
+    "countryCode": "BY"
+  },
+  {
+    "name": "Grodno",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/825848",
+    "parentid": 23424765,
+    "country": "Belarus",
+    "woeid": 825848,
+    "countryCode": "BY"
+  },
+  {
+    "name": "Gomel",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/825978",
+    "parentid": 23424765,
+    "country": "Belarus",
+    "woeid": 825978,
+    "countryCode": "BY"
+  },
+  {
+    "name": "Minsk",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/834463",
+    "parentid": 23424765,
+    "country": "Belarus",
+    "woeid": 834463,
+    "countryCode": "BY"
+  },
+  {
+    "name": "Riga",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/854823",
+    "parentid": 23424874,
+    "country": "Latvia",
+    "woeid": 854823,
+    "countryCode": "LV"
+  },
+  {
+    "name": "Bergen",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/857105",
+    "parentid": 23424910,
+    "country": "Norway",
+    "woeid": 857105,
+    "countryCode": "NO"
+  },
+  {
+    "name": "Oslo",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/862592",
+    "parentid": 23424910,
+    "country": "Norway",
+    "woeid": 862592,
+    "countryCode": "NO"
+  },
+  {
+    "name": "Gothenburg",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/890869",
+    "parentid": 23424954,
+    "country": "Sweden",
+    "woeid": 890869,
+    "countryCode": "SE"
+  },
+  {
+    "name": "Stockholm",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/906057",
+    "parentid": 23424954,
+    "country": "Sweden",
+    "woeid": 906057,
+    "countryCode": "SE"
+  },
+  {
+    "name": "Dnipropetrovsk",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/918981",
+    "parentid": 23424976,
+    "country": "Ukraine",
+    "woeid": 918981,
+    "countryCode": "UA"
+  },
+  {
+    "name": "Donetsk",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/919163",
+    "parentid": 23424976,
+    "country": "Ukraine",
+    "woeid": 919163,
+    "countryCode": "UA"
+  },
+  {
+    "name": "Kharkiv",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/922137",
+    "parentid": 23424976,
+    "country": "Ukraine",
+    "woeid": 922137,
+    "countryCode": "UA"
+  },
+  {
+    "name": "Kyiv",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/924938",
+    "parentid": 23424976,
+    "country": "Ukraine",
+    "woeid": 924938,
+    "countryCode": "UA"
+  },
+  {
+    "name": "Lviv",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/924943",
+    "parentid": 23424976,
+    "country": "Ukraine",
+    "woeid": 924943,
+    "countryCode": "UA"
+  },
+  {
+    "name": "Odesa",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/929398",
+    "parentid": 23424976,
+    "country": "Ukraine",
+    "woeid": 929398,
+    "countryCode": "UA"
+  },
+  {
+    "name": "Zaporozhye",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/939628",
+    "parentid": 23424976,
+    "country": "Ukraine",
+    "woeid": 939628,
+    "countryCode": "UA"
+  },
+  {
+    "name": "Athens",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/946738",
+    "parentid": 23424833,
+    "country": "Greece",
+    "woeid": 946738,
+    "countryCode": "GR"
+  },
+  {
+    "name": "Thessaloniki",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/963291",
+    "parentid": 23424833,
+    "country": "Greece",
+    "woeid": 963291,
+    "countryCode": "GR"
+  },
+  {
+    "name": "Bekasi",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1030077",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1030077,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Depok",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1032539",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1032539,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Pekanbaru",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1040779",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1040779,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Surabaya",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1044316",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1044316,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Makassar",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1046138",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1046138,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Bandung",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1047180",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1047180,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Jakarta",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1047378",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1047378,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Medan",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1047908",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1047908,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Palembang",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1048059",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1048059,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Semarang",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1048324",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1048324,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Tangerang",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1048536",
+    "parentid": 23424846,
+    "country": "Indonesia",
+    "woeid": 1048536,
+    "countryCode": "ID"
+  },
+  {
+    "name": "Singapore",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1062617",
+    "parentid": 23424948,
+    "country": "Singapore",
+    "woeid": 1062617,
+    "countryCode": "SG"
+  },
+  {
+    "name": "Perth",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1098081",
+    "parentid": 23424748,
+    "country": "Australia",
+    "woeid": 1098081,
+    "countryCode": "AU"
+  },
+  {
+    "name": "Adelaide",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1099805",
+    "parentid": 23424748,
+    "country": "Australia",
+    "woeid": 1099805,
+    "countryCode": "AU"
+  },
+  {
+    "name": "Brisbane",
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1100661",
+    "parentid": 23424748,
+    "country": "Australia",
+    "woeid": 1100661,
+    "countryCode": "AU"
+  }
+]

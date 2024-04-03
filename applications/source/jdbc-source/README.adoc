@@ -1,0 +1,46 @@
+//tag::ref-doc[]
+= JDBC Source
+
+This source polls data from an RDBMS.
+This source is fully based on the `DataSourceAutoConfiguration`, so refer to the https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql.html[Spring Boot JDBC Support] for more information.
+
+== Payload
+
+* `Map<String, Object>` when `jdbc.split == true` (default) and `List<Map<String, Object>>` otherwise
+
+== Options
+
+The **$$jdbc$$** $$source$$ has the following options:
+
+//tag::configuration-properties[]
+Properties grouped by prefix:
+
+
+=== jdbc.supplier
+
+$$max-rows$$:: $$Max numbers of rows to process for query.$$ *($$Integer$$, default: `$$0$$`)*
+$$query$$:: $$The query to use to select data.$$ *($$String$$, default: `$$<none>$$`)*
+$$split$$:: $$Whether to split the SQL result as individual messages.$$ *($$Boolean$$, default: `$$true$$`)*
+$$update$$:: $$An SQL update statement to execute for marking polled messages as 'seen'.$$ *($$String$$, default: `$$<none>$$`)*
+
+=== spring.datasource
+
+$$driver-class-name$$:: $$Fully qualified name of the JDBC driver. Auto-detected based on the URL by default.$$ *($$String$$, default: `$$<none>$$`)*
+$$password$$:: $$Login password of the database.$$ *($$String$$, default: `$$<none>$$`)*
+$$url$$:: $$JDBC URL of the database.$$ *($$String$$, default: `$$<none>$$`)*
+$$username$$:: $$Login username of the database.$$ *($$String$$, default: `$$<none>$$`)*
+
+=== spring.integration.poller
+
+$$cron$$:: $$Cron expression for polling. Mutually exclusive with 'fixedDelay' and 'fixedRate'.$$ *($$String$$, default: `$$<none>$$`)*
+$$fixed-delay$$:: $$Polling delay period. Mutually exclusive with 'cron' and 'fixedRate'.$$ *($$Duration$$, default: `$$<none>$$`)*
+$$fixed-rate$$:: $$Polling rate period. Mutually exclusive with 'fixedDelay' and 'cron'.$$ *($$Duration$$, default: `$$<none>$$`)*
+$$initial-delay$$:: $$Polling initial delay. Applied for 'fixedDelay' and 'fixedRate'; ignored for 'cron'.$$ *($$Duration$$, default: `$$<none>$$`)*
+$$max-messages-per-poll$$:: $$Maximum number of messages to poll per polling cycle.$$ *($$Integer$$, default: `$$<none>$$`)*
+$$receive-timeout$$:: $$How long to wait for messages on poll.$$ *($$Duration$$, default: `$$1s$$`)*
+//end::configuration-properties[]
+
+Also see the https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html[Spring Boot Documentation]
+for addition `DataSource` properties and `TriggerProperties` and `MaxMessagesProperties` for polling options.
+
+//end::ref-doc[]
